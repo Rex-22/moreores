@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+issueTrackerURL="https://github.com/rex22/moreores/issues"
+
+[[mods]] #mandatory
+modId="moreores"
+version="${file.jarVersion}"
+displayName="More Ores"
+#updateJSONURL=""
+displayURL="https://www.curseforge.com/minecraft/mc-mods/moreores"
+logoFile="moreores.png"
+credits="Thanks to me!"
+authors="Rex_22"
+description='''
+Adds more ores to the game for some variaty. Also adds tools and weapons for each ore.
+'''
+
+[[dependencies.moreores]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28,)"
+    ordering="NONE"
+    side="BOTH"
+
+# Left in as a reference for later
+#[[dependencies.examplemod]]
+#    modId="minecraft"
+#    mandatory=true
+#    versionRange="[1.14.4]"
+#    ordering="NONE"
+#    side="BOTH"
