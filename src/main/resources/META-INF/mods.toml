@@ -1,13 +1,13 @@
 modLoader="javafml"
 loaderVersion="[28,)"
-issueTrackerURL="https://github.com/rex22/moreores/issues"
+issueTrackerURL="https://github.com/Rex-22/moreores/issues"
 
 [[mods]] #mandatory
 modId="moreores"
 version="${file.jarVersion}"
 displayName="More Ores"
 #updateJSONURL=""
-displayURL="https://www.curseforge.com/minecraft/mc-mods/moreores"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/rex22-moreores"
 logoFile="moreores.png"
 credits="Thanks to me!"
 authors="Rex_22"
