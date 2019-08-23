@@ -1,0 +1,7 @@
+{
+    "item.moreores.titanium_ingot": "Titanium Ingot",
+    "block.moreores.titanium_ore": "Titanium Ore",
+
+    "_comment": "Creative Tabs",
+    "itemGroup.moreores": "More Ores"
+}
