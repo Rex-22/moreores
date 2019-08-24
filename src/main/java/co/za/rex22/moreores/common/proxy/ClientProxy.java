@@ -1,8 +1,6 @@
 package co.za.rex22.moreores.common.proxy;
 
-import co.za.rex22.moreores.common.blocks.ModBlocks;
 import net.minecraft.client.Minecraft;
-import net.minecraft.client.gui.ScreenManager;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.world.World;
 

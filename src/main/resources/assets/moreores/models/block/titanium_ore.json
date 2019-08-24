@@ -1,6 +1,8 @@
 {
-  "parent": "block/cube_all",
+  "parent": "moreores:parent/ore",
   "textures": {
-    "all": "moreores:block/titanium_ore"
+    "face": "block/stone",
+    "overlay": "moreores:block/ore",
+    "particle": "block/stone"
   }
 }

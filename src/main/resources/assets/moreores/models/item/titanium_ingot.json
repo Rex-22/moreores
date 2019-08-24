@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "moreores:item/titanium_ingot"
+    "layer0": "moreores:item/ingot"
   }
 }
